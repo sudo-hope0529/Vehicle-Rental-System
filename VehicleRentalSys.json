@@ -1,0 +1,19 @@
+{
+    "VehiclePriceQntity": [
+        {
+            "Vehicle": "Bike",
+            "VehicleQntity": 70,
+            "VehiclePrice": 900
+        },
+        {
+            "Vehicle": "Car",
+            "VehicleQntity": 60,
+            "VehiclePrice": 1400
+        },
+        {
+            "Vehicle": "Cycle",
+            "VehicleQntity": 93,
+            "VehiclePrice": 400
+        }
+    ]
+}
